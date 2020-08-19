@@ -1,0 +1,29 @@
+---
+title: almost done
+author: ''
+date: '2020-08-10'
+slug: almost-done
+categories:
+  - R
+tags:
+  - Deep Learning
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-10T15:35:27+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+## Header 1
+
+
+## velkommen til 
+
+
+
